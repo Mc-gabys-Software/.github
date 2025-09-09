@@ -16,18 +16,18 @@ A collection of lightweight security tools:
 
 ---
 
-## 💡 Technologies we use
+## 💡 Technologies I use here
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 ## 📬 Support
 If you encounter issues, please open an **issue** in the related repository.  
-For questions or feedback, feel free to reach us via our support email.
+For questions or feedback, feel free to reach me via my support email.
 
 ---
 
 ## ☕ Donations
-If you like our projects and want to support development, you can buy us a coffee :
+If you like my projects and want to support development, you can buy me a coffee :D
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61K5R2A)
