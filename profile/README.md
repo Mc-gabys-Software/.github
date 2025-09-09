@@ -28,5 +28,6 @@ For questions or feedback, feel free to reach us via our support email.
 ---
 
 ## ☕ Donations
-If you like our projects and want to support development, you can buy us a coffee :  
+If you like our projects and want to support development, you can buy us a coffee :
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61K5R2A)
